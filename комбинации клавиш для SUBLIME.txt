@@ -1,0 +1,5 @@
+	ctrl shift p - Package Control
+	ctrl alt L - отформатировать код html
+	ctrl k o - вставить gists github
+	win alt . - íàéòè íóæíûé êëàññ â ñïèñêå css
+	ctrl shift c - упорядочить код в CSS

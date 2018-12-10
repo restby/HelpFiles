@@ -1,0 +1,59 @@
+https://www.youtube.com/watch?v=opPYgB7Tstg
+https://www.youtube.com/watch?v=rBbyOEEjI4Q
+https://www.youtube.com/watch?v=uZm-Z08jPtI
+https://www.youtube.com/watch?v=c985W-12m8Q
+https://www.youtube.com/watch?v=3E4mcNagEPE
+https://www.youtube.com/watch?v=HZ4BUcogWCQ
+https://www.youtube.com/watch?v=9U5GWOPLbGQ
+https://www.youtube.com/watch?v=lyytdMR8WAU
+https://www.youtube.com/watch?v=3DjxQzL7k-g
+https://www.youtube.com/watch?v=FWGKve1c0FY
+https://www.youtube.com/watch?v=sssu2d1UqrE
+http://webdesign-master.ru/blog/tools/2017-03-13-sublime-text-3-setup.html
+https://www.youtube.com/watch?v=qlueo6wFikM
+https://www.youtube.com/watch?v=4vUUhP88pEA&index=4&list=PLPpaecEYRC8ZjBQ1OsGOKmxBF8lTTO4BZ
+https://www.youtube.com/watch?v=cUKq72_Ja2E&list=PLX2yKxdx7ck80bydehDhNfbIVMLUGtc1q
+https://www.youtube.com/watch?v=opPYgB7Tstg
+https://www.youtube.com/watch?v=rBbyOEEjI4Q
+https://www.youtube.com/watch?v=uZm-Z08jPtI
+https://www.youtube.com/watch?v=c985W-12m8Q
+http://webdesign-master.ru/blog/tools/2017-03-13-sublime-text-3-setup.html
+https://www.youtube.com/watch?v=qlueo6wFikM
+https://www.youtube.com/watch?v=3E4mcNagEPE
+https://www.youtube.com/watch?v=HZ4BUcogWCQ
+https://www.youtube.com/watch?v=9U5GWOPLbGQ
+https://www.youtube.com/watch?v=lyytdMR8WAU
+https://www.youtube.com/watch?v=3DjxQzL7k-g
+https://www.youtube.com/watch?v=FWGKve1c0FY
+https://www.youtube.com/watch?v=sssu2d1UqrE
+https://www.youtube.com/watch?v=4vUUhP88pEA&index=4&list=PLPpaecEYRC8ZjBQ1OsGOKmxBF8lTTO4BZ
+https://www.youtube.com/watch?v=cUKq72_Ja2E&list=PLX2yKxdx7ck80bydehDhNfbIVMLUGtc1q
+https://www.youtube.com/watch?v=qlueo6wFikM
+https://www.youtube.com/watch?v=opPYgB7Tstg
+https://www.youtube.com/watch?v=rBbyOEEjI4Q
+
+http://docs.emmet.io/cheat-sheet/
+
+Список плагинов: Packagecontrol Emmet BracketHighlighter AllAutocomplete AutoFileName ColorPicker Sublime SFTP CSScomb
+
+плагин SideBarEnhancements клавиша ALT+F12 - открывает файл в браузере
+плагин AdvancedNewFile:
+win+ALT+n - создание нового файла в текущую папку в нижней консоли(index.html)
+win+ALT+n - создание новой папки с файлом в нижней консоли(example/index.html)
+плагин Bootstrap 3 snippets - вставки от bootstrap(почитать про комбинации)
+
+Allautocomplete - предлагает уже написанные ид или классы
+AutoFileName - дает выбор файлов для подключения(css/js и т.д.)
+ColorPicker - CTRL+Shift+c - открывает цветовую панель
+JavaScript & NodeJS Snippets
+
+https://www.youtube.com/watch?v=9U5GWOPLbGQ краткое описание настроек с 8-9 минуты
+https://www.youtube.com/watch?v=ugKcGxNJXZM краткое описание плагинов
+FakeImg Placeholder Snippet и img-placeholder - картинки-рыба
+плагин HTML5 - помогает разворачивать теги HTML5,которые не разворачиваются кросбарузерно записью в ctrl+shift+p названием тега
+плагин Terminal - ctrl+shift+t - открывает консоль винды с нахождением уже в папке проекта
+плагин Autoprefixer - ставит префиксы к стилям(для поддержки всеми браузерами), выделяем и через ctrl+shift+p названием Autoprefixer CSS выбираем
+плагин CSS comb - чистый, красивый код?
+плагин go to css declaration win+alt+. - быстрый переход из HTML в CSS к названию класса/ид и т.д.
+плагин sass - для подсветки sass синтаксиса(после установки еще раз выбрать внизу через(открыть через) sass
+плагин jQuery - набор сниппетов для jquery 

@@ -1,0 +1,27 @@
+	https://github.com/web-standards-ru/dictionary
+	https://htmlacademy.ru/blog/81-git-and-github-glossary
+	https://www.youtube.com/watch?v=Oyj5yVVrT4Q
+	https://githowto.com/ru
+	https://htmlacademy.ru/blog/85-register-on-github-work-with-github-desktop
+	https://html-color-codes.info/Cvetovye-kody-HTML/
+	http://htmlbook.ru/html
+	http://htmlbook.ru/practical
+	http://htmlbook.ru/layout
+	https://html5book.ru/
+	https://learn.javascript.ru/
+	leaverou.github.io/prefixfree/
+	http://webdesign-master.ru/blog/tools/2017-03-13-sublime-text-3-setup.html
+	http://simonenko.su/32197993404/use-css3-box-sizing
+	http://simonenko.su/38146501854/improving-ux-for-web-form
+	https://www.fontsquirrel.com/tools/webfont-generator
+	https://fontstorage.com/blog/about-font-face-part-two/
+	https://fontstorage.com/blog/about-font-face-part-one/
+	http://validator.w3.org/ - валидатор онлайн
+	http://tidy.sourceforge.net/ - валидатор приложение на пк
+	http://htmlbook.ru/html - справочник тегов
+	http://htmlbook.ru/css - справочник стилей
+
+	https://www.youtube.com/watch?v=qlueo6wFikM&feature=youtu.be
+	https://www.youtube.com/user/agragregra/playlists
+	https://www.youtube.com/watch?v=E8azklVwWgQ&list=PLPpaecEYRC8ZjBQ1OsGOKmxBF8lTTO4BZ&index=14
+	https://www.youtube.com/watch?v=qmV8JiiqiAg&index=7&list=PLX2yKxdx7ck80bydehDhNfbIVMLUGtc1q

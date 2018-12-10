@@ -1,0 +1,8 @@
+visually-hidden
+
+img    --  [src="http://placehold.it/100x100" width="100" height="100" alt=""]
+a      --  [href="#" aria-label=""]
+button --  [type="" aria-label=""]
+input  --  [type="" aria-label="" placeholder="" id=""]
+label  --  [for=""]
+form   --  [action="https://echo.htmlacademy.ru" method=""]
